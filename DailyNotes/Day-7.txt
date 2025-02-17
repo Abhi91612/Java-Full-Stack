@@ -1,0 +1,46 @@
+Loop Constructs
+---------------
+1)do while loop -> its  execute atleast once and number of inter face not known or fixed
+2)for   ->  use when number of iteration is known or fixed
+3)while  -> use when number of iteration is not  known or fixed
+
+Random ra=new Random();
+int num = ra.nextInt(6);// return  0-5
+
+int num = ra.nextInt(6)+1 // return 1 - 6
+debug=remove      bug is run time error 
+  
+ for
+ ---
+ for(;;) // infinte loop
+ for(....); // loop without body 
+
+int n;
+for (n=0; n<10 ; n++); // without body
+sop(n);  /// print 10 
+
+psvm(){
+{  
+  int n=10,z;
+   z=n*n;       // inner block scope   memory will free on block of end we use to incrrease efficiency 
+}
+n=n+1:  / give errr 
+
+}
+
+
+use print to print first iteration of table
+never use multiplication when multiply by 1 and addition with 0 never used this type of operation int programm
+
+int n=6
+sop(6)
+for( 0-9){
+  sop(res+=num);
+
+}
+factorial
+=======
+int x=5
+for(n-1 to =2){
+x*=n;   // loop will run 3 times
+}

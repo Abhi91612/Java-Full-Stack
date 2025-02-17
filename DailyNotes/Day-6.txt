@@ -1,0 +1,38 @@
+Condition operator
+------------------
+if(show()==10)    return type is int 
+if(show())  return type is boolean
+if(a+b)  errr -> return value not store
+
+if can also be terminated by semicolon(;)
+
+
+
+if(a<b); is valid declaration        -> end of if condition 
+{        // this is not the body of if condition
+	// this is a without condition block that will always run 
+print(" Abhishek");
+}
+else{ //  err invaid -> without if
+}
+
+
+
+if (1);  // valid  
+else{   // valid  if  if condition is true than else condition never run otherwise execute(run) the block of else 
+}
+
+important notes => // in If condition that it should be mendatory to write first condition (right side ) that condition that will return false value to avoid checking other condition 
+to improve the time complexity of the program vice versa with OR operator       ///// to use short circuite benefit
+
+actually elase if is not work that it is looking 
+it's work like -> else{ if{  }}   because for  single line statement you can remove the curly({,}) braces 
+
+nextInt -> non-static this method invoke takes value and from input and return the value;
+ 
+
+
+
+
+
+

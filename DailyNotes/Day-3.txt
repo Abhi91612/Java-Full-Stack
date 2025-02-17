@@ -1,0 +1,50 @@
+OPERATOR
+==========
+
+operands type of arithematic  operators are numberic and return type of these operator is also numberic .(++ , --)
+
+coparision operator used beetween numberic but return type is boolean .
+
+logical operator  are boolean  and return type is boolean . 
+&&(and )  , || (or) , ^ (Xor) , !(not)    
+
+
+-> operator can be divided in to two cotegories
+
+1) Unary operator (++, --, !)
+2) Binary Operator( Rest of  others are in this cotegory)
+ 
+
+in x=x+1 or x+=1 has proble of human mistake  becouse value 1 is given by programmer (we use ++ , --)to prevent  human mistake .
+
+++x; // new value return
+x++; // old value return 
+in upper both statement increment will happen  but difference is return value
+
+if both are  use not in loop so these upper both condition happen other wise increment will happen every iteration ; 
+y=x++;
+it become x=x+1 but y=x previus value 
+
+
+this is a program  
+int x=10,y;
+y=x++ - ++x;
+output is y=-2;
+
+y=x++ - (++x - ++x)
+output is 11 
+
+
+
+for(int i=0; i<5; i=i++)  =>this is the infinite loop happen  becouse value will not increment with the use of assigment operarator return old value of i;
+for(int i=0; i<5; i=++i)  => loop run by 5 times 
+
+
+
+
+
+
+
+ 
+ 
+

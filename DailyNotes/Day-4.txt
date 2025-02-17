@@ -1,0 +1,34 @@
+! (not operator)
+---------------
+
+boolean x=true;
+x=!x;
+print = x // output is false
+jvm start->   -> jvm check main method in give class  -> jvm load class to the memory -> invoke main fuction ;
+controll goes to main method -> ........... -> after termination of main method -> jvm terminate;
+
+
+we are talking aabout (+) operator (addition and concatination)
+--------------------------------------------------------------
+ if data type is byte short int case has  return type is int 
+ if datatype is long than  return type long   
+
+byte x=10 , s=10;
+byte z = x+s;  ///error  becouse return type of + operator is int 
+if you use typecasting than it will work than program become 
+byte z=(byte)(x+y);
+
+if one of the both operands contain string than concatination will happen AND return type is String
+byte z="10"+20;  // error becouse of byte
+String z="10" +20; // print 1020
+" sum "+10+10  // print->  sum 1010         10+10+" sum // print-> 20 sum       " sum "+(10+10) // print-> sum 20  
+
+arithematical assigment operator (+= ,-=,/=,%=)  prerequisits 
+-------------------------------
+one side require variable  
+both side can be variable           
+
+
+
+
+

@@ -1,0 +1,27 @@
+Define Method
+
+-------------
+Today motivation line 
+-> Don't make lack of resources and execuse , start with what you have
+
+rt.jar -> This is java all library included in this library  which we got after the  installation of jdk file  
+
+ few classes of the library that are in default package  (java.lang= default package )
+    String ,System,Math,object , class , etc
+   Math methad invoke by this package  all this method are public 
+   
+
+1) prototype of that method (name of tha class of that method)
+2)argument list
+3)return type
+4)modifire
+
+
+public static double sqrt(int); this the method prototype return type double input type int 
+
+double res= Math.sqrt(90);  /// by convention M is capital in Math  
+
+
+call for show method 
+FindSquareRoot.show();
+

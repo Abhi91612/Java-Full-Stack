@@ -1,0 +1,67 @@
+james gosline in 1995
+first lauched in  1996 jdk 1.0 version
+
+JRE = Java Runtime Environment (implemetation of jvm)
+JVM = total dependent upon OS
+JDK
+
+
+DUE TO JVM java programs are platform independent.
+
+
+compiler does mainly 
+parsing = error check 
+translation= convert source code to  executable form
+
+
+class = vacubulary/ keywords 
+
+alphabatics = 54 ( capital/small/_/$) +10 digits       for naming in variable 
+
+VARIABLE CAN START FROM $ OR _ ALSO BUT NOT NUMBER
+
+
+
+4 cases
+1.lower case      2.UPPERCASE  3. TitleCase    4. camelCase
+
+
+IN THE CONVETIONALL(not maindatory)
+
+1) NAME SHOULD BE MEANINGFUL
+2) CLASS NAME SHOULD BE IN TITLE CASE
+3) METHOD , VARIABLE AND ARGUMENT  NAME SHOULD BE IN camelCase
+
+
+
+if the name of class is not public then program can run
+
+due to background compilation is used to check class name if class is public should match with file name otherwise return error.
+
+
+
+Main Method
+===========
+Every java program must haave main() method 
+this method is responsible to start execution of java program and termination also .
+JVM is a driver of the program first execute this.
+Main method invoke / called by JVM.
+
+
+
+first jvm start-> main start-> .......-> main end
+
+
+JVM 
+existence check of main method 
+class loaaader is reponsible for load the current file into main memory 
+main method invoke
+
+
+
+
+ 
+
+
+
+
