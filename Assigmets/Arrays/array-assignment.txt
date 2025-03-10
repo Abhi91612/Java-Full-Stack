@@ -1,0 +1,32 @@
+1)int[] x={123,34,516,87,343,787,347,676};
+  Display those numbers that are greater than their adjacent number
+2)int[] x={10,20,30,50,10,20,10,30,20};
+  Accept a number from user and display frequence/occurrence of accepted number in array 
+3)int[] x={123,34,56,787,343,787,347,56};
+  int[] y={232,35345,23,3543,232,454,67,3};
+  Display largest number from the numbers of both arrays
+4)int[] x={123,34,56,787,343,717,347,56};
+  Display second largest number 
+5)int[] x={123,34,56,787,343,717,347,56,17,79};
+Display all prime numbers
+6)int[] x={11,5,67,23,49,90,45};
+  int[] y={45,19,11,67,567,2,5};
+  Display those elements that are common in both array
+7)int[] x={11,5,67,23,49,90,45};
+  int[] y={45,19,11,67,567,2,5};
+  Display those elements from first array that are not present in second array
+8)int[] x={1,2,3,4,5,6,5,4,3,2,1,5,6,7,8,9,8,7,6,5,4,3,2,1};
+  Display frequency of each element in following manner
+  Frequency of 1 is 3
+  Frequency of 2 is 3
+  and so on
+9)int[] x={123,34,56,787,343,717,347,56,17,79,61};
+  Display those numbers that contains digit 1
+  Such as 123,717,17,61
+10)Given an integer array, find a maximum product of a triplet in the array
+   Input:  int []arr=[10,3,5,6,20]
+   Output: 1200
+   Explanation: Multiplication of 10, 6 and 20  
+
+
+  
